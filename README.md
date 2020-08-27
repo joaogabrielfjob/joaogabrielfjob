@@ -25,7 +25,10 @@
   <a href ="https://centraldofranqueado.com.br">
     @Centraldofranqueado
   </a> <br>
-  📚 Studying Analysis and systems development <br>
+  📚 Studying Analysis and systems development at
+  <a href ="https://www.uniritter.edu.br">
+    @UniRitter
+  </a> <br>
   🍂 Building my journey <br>
 </p>
 
