@@ -1,13 +1,13 @@
 
-<h1 align='center'>
+<strong>
   Hi there, i'm João Gabriel! 👋🏻
-</h1>
+</strong>
 
-<p align='center'>
+<p>
   A mobile and web developer from Brazil.
 </p>
 
-<p align='center'>
+<p>
   
   <a href="https://www.linkedin.com/in/joaogabrielf/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -20,7 +20,7 @@
 
 <br>
 
-<p align='center'>
+<p>
   💻 Web Development Intern at 
   <a href ="https://centraldofranqueado.com.br">
     @Centraldofranqueado
@@ -29,16 +29,15 @@
   🍂 Building my journey <br>
 </p>
 
+<strong>What I'm working on 👨🏻‍💻</strong>
 
-<h2 align='center'>What I'm working on 👨🏻‍💻</h2>
-
-<p align='center'>
+<p>
   🚀 Reinventing the relationship between franchises and franchisees at
   <a href ="https://centraldofranqueado.com.br">
     @Centraldofranqueado
   </a>
 </p>
 
-<p align='center'>
+<p>
   📫 How to reach me: <a href='mailto:joao.gabrielfjob@gmail.com'>joao.gabrielfjob@gmail.com</a>
 </p>
