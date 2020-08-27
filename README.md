@@ -21,7 +21,7 @@
 <br>
 
 <p align='center'>
-  💻 Web developer at 
+  💻 Web Development Intern at 
   <a href ="https://centraldofranqueado.com.br">
     @Centraldofranqueado
   </a> <br>
