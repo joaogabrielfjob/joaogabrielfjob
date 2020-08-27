@@ -21,6 +21,7 @@
 <br>
 
 <p>
+  <strong>What I'm doing 👨🏻‍💻</strong> <br>
   💻 Web Development Intern at 
   <a href ="https://centraldofranqueado.com.br">
     @Centraldofranqueado
@@ -29,20 +30,8 @@
   <a href ="https://www.uniritter.edu.br">
     @UniRitter
   </a> <br>
-  🍂 Building my journey <br>
+  🍂 Building my journey
 </p>
-
-<br>
-
-<p>
-  <strong>What I'm working on 👨🏻‍💻</strong> <br>
-  🚀 Reinventing the relationship between franchises and franchisees at
-  <a href ="https://centraldofranqueado.com.br">
-    @Centraldofranqueado
-  </a>
-</p>
-
-<br>
 
 <p>
   📫 How to reach me: <a href='mailto:joao.gabrielfjob@gmail.com'>joao.gabrielfjob@gmail.com</a>
