@@ -29,14 +29,17 @@
   🍂 Building my journey <br>
 </p>
 
-<strong>What I'm working on 👨🏻‍💻</strong>
+<br>
 
 <p>
+  <strong>What I'm working on 👨🏻‍💻</strong> <br>
   🚀 Reinventing the relationship between franchises and franchisees at
   <a href ="https://centraldofranqueado.com.br">
     @Centraldofranqueado
   </a>
 </p>
+
+<br>
 
 <p>
   📫 How to reach me: <a href='mailto:joao.gabrielfjob@gmail.com'>joao.gabrielfjob@gmail.com</a>
