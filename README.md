@@ -7,8 +7,6 @@
   A mobile and web developer from Brazil.
 </p>
 
-<br>
-
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/joaogabrielf/">
@@ -19,6 +17,8 @@
   </a>&nbsp;&nbsp;
   
 </p> 
+
+<br>
 
 <p align='center'>
   💻 Web developer at 
