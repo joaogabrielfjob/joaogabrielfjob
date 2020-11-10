@@ -4,7 +4,7 @@
 </strong>
 
 <p>
-  A mobile and web developer from Brazil.
+  A developer from Brazil.
 </p>
 
 <p>
