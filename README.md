@@ -22,13 +22,13 @@
 
 <p>
   <strong>What I'm doing 👨🏻‍💻</strong> <br>
-  💻 Web Development Intern at 
-  <a href ="https://centraldofranqueado.com.br">
-    @Centraldofranqueado
+  💻 Intern at 
+  <a href ="https://softdesign.com.br/">
+    @SoftDesign
   </a> <br>
   📚 Studying Analysis and systems development at
-  <a href ="https://www.uniritter.edu.br">
-    @UniRitter
+  <a href ="http://www.unisinos.br/">
+    @Unisinos
   </a> <br>
   🍂 Building my journey
 </p>
