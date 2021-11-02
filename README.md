@@ -22,7 +22,7 @@
 
 <p>
   <strong>What I'm doing 👨🏻‍💻</strong> <br>
-  💻 Intern at 
+  💻 Developer at 
   <a href ="https://softdesign.com.br/">
     @SoftDesign
   </a> <br>
