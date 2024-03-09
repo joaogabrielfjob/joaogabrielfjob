@@ -1,6 +1,6 @@
 
 <strong>
-  Hi there, i'm João Gabriel! 👋🏻
+  Hi there, i'm João Job! 👋🏻
 </strong>
 
 <p>
